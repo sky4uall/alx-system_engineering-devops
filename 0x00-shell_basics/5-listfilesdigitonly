@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -aln
-ls -aln command is used to Display current directory contents in long format with user groups and hidden files
