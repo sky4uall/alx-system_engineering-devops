@@ -7,3 +7,4 @@ chmod 100 hello - script that adds execute permission to the owner of the file h
 chmod 744 hello - script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 chmod 755 hello - script that adds execution permission to the owner, the group owner and the other users, to the file hello
 chmod 007 hello - script that sets the permission to the file hello as follows
+John Doe
