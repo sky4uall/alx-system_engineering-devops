@@ -1,1 +1,1 @@
-duplicate last line
+grep "root"/etc/passwd - For listing
